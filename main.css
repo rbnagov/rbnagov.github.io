@@ -5,7 +5,7 @@
    Some Style Overrides on Bootstrap
   ********************************** */
 .navbar-inverse {
-  background: rgba(62, 195, 246, 0);
+  background: rgba(0, 59, 106, 0);
   border-bottom: none;
 }
 
@@ -51,7 +51,7 @@
            Big Logo
   ********************************** */
 .big-logo-row {
-  background: gold;
+  background-image: url("imgur.com/O0vFu8W");
 }
 .big-logo-row .big-logo-container {
   padding-top: 50px;
