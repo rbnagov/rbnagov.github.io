@@ -61,6 +61,7 @@
   font-size: 4em;
   margin: 0;
   padding: 0 0 15px 0;
+  color: #E1E1E2;
 }
 @media (min-width: 400px) {
   .big-logo-row h1 {
