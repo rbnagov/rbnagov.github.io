@@ -54,7 +54,8 @@
   background-image: url("http://cdn29.us2.fansshare.com/images/theunitedstatescapitolbuilding/us-capitol-building-at-night-jan-1876262953.jpg");
 }
 .big-logo-row .big-logo-container {
-  padding-top: auto;
+  padding-top: 50px;
+  height: auto;
 }
 .big-logo-row h1 {
   font-size: 4em;
